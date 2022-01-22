@@ -1,6 +1,6 @@
-const serverUrl = "https://g26vfddx4srs.usemoralis.com:2053/server";
-const appId = "H9ucEGlWzLscZbMvgpxDawOpftrxpheGw5rFaCG6";
-const covalentId = "ckey_756a9fcc593742108e6204976ff";
+const serverUrl = "<Moralis Server>";
+const appId = "<Moralis APP Id>";
+const covalentId = "<Covalent API>";
 
 var pools = [];
 var balances = [];
